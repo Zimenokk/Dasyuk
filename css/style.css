@@ -331,3 +331,47 @@ table {
     -ms-border-radius: 8px;
     -o-border-radius: 8px;
 }
+
+
+/* Blogers____________________ */
+
+.firBlog {
+    display: flex;
+    flex-direction: row;
+    margin-top: 5%;
+}
+
+.leftBlog {
+    width: 70%;
+}
+
+.leftBlog>img {
+    width: 70%;
+}
+
+.rightBlog {
+    width: 50%;
+    margin-top: 5%;
+}
+
+.thTitleBlog {
+    width: 88%;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 30px;
+}
+
+.secBlog {
+    display: flex;
+    flex-direction: row;
+}
+
+.secBlog>.rightBlog {
+    width: 50%;
+}
+
+.leftDownBl {
+    margin-top: 20%;
+    width: 50%;
+    margin-left: 14%;
+}
