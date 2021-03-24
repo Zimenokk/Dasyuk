@@ -367,11 +367,11 @@ table {
 }
 
 .secBlog>.rightBlog {
-    width: 50%;
+    width: 60%;
 }
 
 .leftDownBl {
     margin-top: 20%;
-    width: 50%;
+    width: 100%;
     margin-left: 14%;
 }
